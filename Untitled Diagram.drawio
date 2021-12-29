@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-29T12:41:31.737Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Q3wVWGNea2AIUMxvlPX8" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-29T12:42:57.669Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="T-iWgrHVoiyz46oDR8qv" version="16.0.0" type="github">
   <diagram id="MV1uK1s1evkV6G0NsdHk" name="Page-1">
     <mxGraphModel dx="813" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,6 +39,9 @@
         </mxCell>
         <mxCell id="PCwxbhCvGm5rOhKtlS9v-8" value="D" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="390" y="345" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PCwxbhCvGm5rOhKtlS9v-9" value="Precision = A/(A+B)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="510" y="265" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
