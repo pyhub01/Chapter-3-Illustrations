@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-31T04:42:42.122Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="LDqaK6h4Ab-ADpXvL6c9" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-31T04:44:48.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="cdYwJ-M1hz0xWWLSX6nS" version="16.1.0" type="github">
   <diagram id="afUHMJCrHUIkOc126Sgg" name="Page-1">
     <mxGraphModel dx="569" dy="305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,10 +70,10 @@
             <mxPoint x="280" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPyfAMg2RBG2luRmoeQM-12" value="True Positive Rate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="lPyfAMg2RBG2luRmoeQM-12" value="True Positive Rate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="210" y="270" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lPyfAMg2RBG2luRmoeQM-13" value="False Positive Rate" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lPyfAMg2RBG2luRmoeQM-13" value="False Positive Rate" style="text;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="320" y="360" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
